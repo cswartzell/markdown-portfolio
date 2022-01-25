@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+##Skills
+*outdated* programming skills
+Problem Solving
+Deep love of puzzles
+**WOOD BUTCHERY**
